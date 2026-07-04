@@ -77,15 +77,12 @@ Stable Diffusion v1.5 produced higher quality, more detailed and visually impres
 - [DALL-E Mini Image Generator — Colab Notebook](https://colab.research.google.com/github/robgon-art/e-dall-e/blob/main/DALL_E_Mini_Image_Generator.ipynb)
 - [E-DALL-E: Creating Digital Art — Towards Data Science](https://towardsdatascience.com/e-dall-e-creating-digital-art-with-varying-aspect-ratios-5de260f4713d/)
 
-## 🙏 Acknowledgements
-
-Thanks to **Prodigy InfoTech** for the opportunity to learn and apply Generative AI concepts through this hands-on task.
 
 ---
 
 ## ✍️ Author
 
-**[Your Name Here]**
+**Kaviya Sivakumar**
 
 ---
 *Part of the Generative AI Internship Program — Prodigy InfoTech*
